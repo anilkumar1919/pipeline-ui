@@ -41,7 +41,7 @@ steps:
             <add name="iisnode" path="server.js" verb="*" modules="iisnode" />
         </handlers>
         </system.webServer>
-</configuration>
+    </configuration>
   ...
   "scripts": {
     "start": "node server"
